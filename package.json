@@ -67,7 +67,6 @@
     "through2": "^2.0.5"
   },
   "optionalDependencies": {
-    "jquery": "^3.3.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
   }
